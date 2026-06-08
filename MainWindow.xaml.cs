@@ -23,7 +23,7 @@ namespace PomodoroApp
 
         private static class PomodoroPhaseDurationsInMinutes
         {
-            public static int WorkDuration = 0;
+            public static int WorkDuration = 25;
             public static int ShortBreakDuration = 5;
             public static int LongBreakDuration = 15;
         }
