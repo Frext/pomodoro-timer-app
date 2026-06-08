@@ -30,7 +30,7 @@ The application automatically manages the cycle between your focused work blocks
 ## 🛠️ Built With
 
 * **Framework:** WPF (Windows Presentation Foundation)
-* **Runtime:** .NET Framework 4.7.2
+* **Runtime:** .NET Framework 4.7.2 (Windows)
 * **Language:** C#
 
 ---
