@@ -1,5 +1,9 @@
 # PomodoroApp
 
+[![C#](https://img.shields.io/badge/Language-C%23-239120?style=flat&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+[![WPF](https://img.shields.io/badge/Framework-WPF-blue?style=flat)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
+[![.NET Framework 4.7.2](https://img.shields.io/badge/.NET-4.7.2-512bd4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/en-us/download/dotnet-framework/net472)
+
 A lightweight, clean desktop productivity timer, designed to help you stay focused and manage your work intervals effectively using the traditional Pomodoro technique.
 
 ---
@@ -29,9 +33,9 @@ The application automatically manages the cycle between your focused work blocks
 
 ## 🛠️ Built With
 
-* **Framework:** WPF (Windows Presentation Foundation)
-* **Runtime:** .NET Framework 4.7.2 (Windows)
 * **Language:** C#
+* **Framework:** WPF (Windows Presentation Foundation)
+* **Runtime:** .NET 4.7.2 (Windows)
 
 ---
 
